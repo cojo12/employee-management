@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");;
 const connection = require("./connection");
 
-askQuestions():
+askQuestions();
 
 function askQuestions() {
   inquirer.prompt({
